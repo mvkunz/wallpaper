@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+body {
+  background-color: rgb(62, 60, 60);
+  font-family: 'Nanum Gothic', sans-serif;
+  color: white;
+}
 .homePage {
   display: flex;
   flex-direction: column;
